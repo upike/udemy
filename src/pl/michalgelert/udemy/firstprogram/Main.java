@@ -10,5 +10,6 @@ public class Main {
 
         //komentarz
         System.out.println("Hello world!");
+    // fadfdafdafdafdasfa
     }
 }
