@@ -8,7 +8,7 @@ public class Main {
 // komentarz
         //drugi komentarz
 
+        //komentarz
         System.out.println("Hello world!");
-
     }
 }
